@@ -1,0 +1,16 @@
+img {
+  width: 300px;
+  border: purple 4px solid; 
+   border-radius: 45%;
+}
+img:hover {
+  border: pink 4px solid;
+}
+body {
+  background-color: lavender;
+}
+h2 {
+  color: purple;
+  text-decoration: wavy 3px pink underline;
+  font-family: "Georgia", serif;
+}
